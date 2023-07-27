@@ -103,3 +103,12 @@ Contributions to the Udemy Clone project are welcome! If you find any issues or 
 ## License
 
 The Udemy Clone project is open-source and uses the [MIT License](LICENSE). Feel free to use, modify, and distribute the code as per the terms of the license.</p>
+<img src="img (10).png" alt="" /><img src="img (2).png" alt="" /><img
+  src="img (3).png"
+  alt=""
+/><img src="img (4).png" alt="" /><img src="img (5).png" alt="" /><img
+  src="img (6).png"
+  alt=""
+/><img src="img (7).png" alt="" /><img src="img (8).png" alt="" />
+<img src="img (9).png" alt="" /><img src="img (1).png" alt="" />
+
